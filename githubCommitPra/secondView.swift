@@ -29,7 +29,7 @@ struct secondView: View {
                 } label: {
                     Text(taskList[index].title)
                 }
-                
+                .foregroundColor(.primary)
             }
             
             
