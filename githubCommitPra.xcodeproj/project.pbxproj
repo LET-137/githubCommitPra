@@ -11,6 +11,7 @@
 		C77779282B2598BB00850EC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77779272B2598BB00850EC0 /* ContentView.swift */; };
 		C777792A2B2598BC00850EC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C77779292B2598BC00850EC0 /* Assets.xcassets */; };
 		C777792D2B2598BC00850EC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C777792C2B2598BC00850EC0 /* Preview Assets.xcassets */; };
+		C77779342B25A12E00850EC0 /* secondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77779332B25A12E00850EC0 /* secondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C77779272B2598BB00850EC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C77779292B2598BC00850EC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C777792C2B2598BC00850EC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C77779332B25A12E00850EC0 /* secondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C77779252B2598BB00850EC0 /* githubCommitPraApp.swift */,
 				C77779272B2598BB00850EC0 /* ContentView.swift */,
+				C77779332B25A12E00850EC0 /* secondView.swift */,
 				C77779292B2598BC00850EC0 /* Assets.xcassets */,
 				C777792B2B2598BC00850EC0 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C77779282B2598BB00850EC0 /* ContentView.swift in Sources */,
+				C77779342B25A12E00850EC0 /* secondView.swift in Sources */,
 				C77779262B2598BB00850EC0 /* githubCommitPraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
